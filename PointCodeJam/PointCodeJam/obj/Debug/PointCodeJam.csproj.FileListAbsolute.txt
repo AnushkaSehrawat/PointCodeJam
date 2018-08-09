@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\PointCodeJam\PointCodeJam\bin\Debug\PointCodeJam.exe.config
+C:\Users\Admin\source\repos\PointCodeJam\PointCodeJam\bin\Debug\PointCodeJam.exe
+C:\Users\Admin\source\repos\PointCodeJam\PointCodeJam\bin\Debug\PointCodeJam.pdb
+C:\Users\Admin\source\repos\PointCodeJam\PointCodeJam\obj\Debug\PointCodeJam.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PointCodeJam\PointCodeJam\obj\Debug\PointCodeJam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PointCodeJam\PointCodeJam\obj\Debug\PointCodeJam.exe
+C:\Users\Admin\source\repos\PointCodeJam\PointCodeJam\obj\Debug\PointCodeJam.pdb
